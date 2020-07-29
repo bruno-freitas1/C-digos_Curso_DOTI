@@ -12,6 +12,11 @@ function logout(){
     window.location="index.html";
 }
 
+function logout3(){
+    localStorage.removeItem("user");
+    window.location="index.html";
+}
+
 
 function logout2(){
     localStorage.removeItem("user");
