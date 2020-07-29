@@ -13,6 +13,12 @@ function logout(){
 }
 
 
+function logout2(){
+    localStorage.removeItem("user");
+    window.location="index.html";
+}
+
+
 
 function gerarRelatorioEventos(){
     window.alert("data " +  document.getElementById("txtInicio").value);
