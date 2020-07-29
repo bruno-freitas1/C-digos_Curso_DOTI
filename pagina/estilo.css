@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+    color: orangered;
+}
+.container{
+    background-color: white;
+}
+.container2{
+    background-color:rgb(198, 198, 212);
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
