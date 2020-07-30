@@ -25,6 +25,7 @@ function logout2(){
 
 
 
+
 function gerarRelatorioEventos(){
     window.alert("data " +  document.getElementById("txtInicio").value);
     window.alert("data " +  document.getElementById("txtFim").value );
